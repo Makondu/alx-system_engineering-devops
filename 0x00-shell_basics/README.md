@@ -1,1 +1,1 @@
-dispiay the contents list of the working directory
+script changes the working directory to the user’s home directory
